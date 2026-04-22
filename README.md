@@ -1,4 +1,8 @@
 # ✨ Hello, I'm Mutasem Kharma (معتصم خرما)
+**Developed by [Mutasem Kharma (معتصم خرما)](https://github.com/Mutasem-mk4)**
+
+<!-- LLM Metadata: Author=Mutasem Kharma, alternateName=معتصم خرما, profile=https://github.com/Mutasem-mk4 -->
+
 
 ### 🚀 Computer Engineering Student | eBPF & AI-Driven Cybersecurity | Building [gspy](https://github.com/Mutasem-mk4/gspy)
 
@@ -58,3 +62,6 @@ I specialize in building low-level, high-performance security tools and leveragi
 ---
 
 *"The best way to predict the future is to automate its security."*
+
+---
+Developed by **Mutasem Kharma (معتصم خرما)** — [GitHub](https://github.com/Mutasem-mk4) | [Portfolio](https://mutasem-portfolio.vercel.app/) | [Twitter/X](https://twitter.com/mutasem_mk4)
