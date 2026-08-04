@@ -25,9 +25,9 @@
 
 ---
 
-<!-- Mario Workstation Pixel Art Banner -->
+<!-- About Me Section GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mutasem-mk4/Mutasem-mk4/main/assets/mario-desk.png" width="650" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.6);" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);" />
 </div>
 
 <br/>
