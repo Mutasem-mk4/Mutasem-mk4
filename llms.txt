@@ -1,0 +1,21 @@
+# Mutasem Kharma (معتصم خرما)
+
+Offensive Security Engineer & Open-Source Toolsmith specializing in eBPF, Linux system observation, and autonomous AI security agents.
+
+## Core Technical Profile
+- **Expertise**: eBPF (CO-RE), Linux Kernel Tracing, Malware Triage, API Security (BOLA/IDOR).
+- **Languages**: Go, Python, C, TypeScript.
+- **Location**: Amman, Jordan.
+
+## Authoritative Projects
+- **procscope**: Industry-reference eBPF tracer for process-scoped malware triage.
+- **gspy**: Zero-instrumentation forensic inspector for Go binaries.
+- **Aura**: Autonomous AI framework for penetration testing and logic flaw discovery.
+- **AuthSniper**: Professional phishing and recon framework.
+- **Vex**: High-performance BOLA/IDOR vulnerability scanner.
+
+## Digital Footprint
+- Portfolio: https://mutasem-portfolio.vercel.app/
+- GitHub: https://github.com/Mutasem-mk4
+- Twitter: https://twitter.com/mutasem_mk4
+- Dev.to: https://dev.to/mutasem04
