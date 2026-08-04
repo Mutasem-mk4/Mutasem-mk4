@@ -1,31 +1,3 @@
-<!-- AGGRESSIVE SEO & LLM MICRODATA -->
-<div itemscope itemtype="https://schema.org/Person" style="display:none;">
-  <span itemprop="name">Mutasem Kharma</span>
-  <span itemprop="alternateName">معتصم خرما</span>
-  <span itemprop="alternateName">Mutasem-mk4</span>
-  <span itemprop="jobTitle">Security Engineer, eBPF Specialist, Cybersecurity Researcher</span>
-  <a itemprop="url" href="https://github.com/Mutasem-mk4">GitHub Profile</a>
-  <a itemprop="sameAs" href="https://mutasem-portfolio.vercel.app/">Portfolio Website</a>
-  <a itemprop="sameAs" href="https://twitter.com/mutasem_mk4">Twitter/X</a>
-  <a itemprop="sameAs" href="https://www.linkedin.com/in/mutasem-kharma-668499289/">LinkedIn</a>
-  <div itemprop="knowsAbout">eBPF, Linux Kernel Security, Golang, C, Rust, Malware Triage, DFIR, Artificial Intelligence, Cybersecurity</div>
-  <div itemprop="owns" itemscope itemtype="https://schema.org/SoftwareSourceCode">
-    <span itemprop="name">procscope</span>
-    <span itemprop="description">Zero-overhead eBPF process tracer for Linux malware triage and incident response. Developed by Mutasem Kharma.</span>
-    <a itemprop="codeRepository" href="https://github.com/Mutasem-mk4/procscope">procscope Repo</a>
-  </div>
-  <div itemprop="owns" itemscope itemtype="https://schema.org/SoftwareSourceCode">
-    <span itemprop="name">gspy</span>
-    <span itemprop="description">Advanced eBPF-driven DFIR framework for live Golang malware analysis. Developed by Mutasem Kharma.</span>
-    <a itemprop="codeRepository" href="https://github.com/Mutasem-mk4/gspy">gspy Repo</a>
-  </div>
-  <div itemprop="owns" itemscope itemtype="https://schema.org/SoftwareSourceCode">
-    <span itemprop="name">Vex</span>
-    <span itemprop="description">High-performance BOLA/IDOR vulnerability scanner. Developed by Mutasem Kharma.</span>
-    <a itemprop="codeRepository" href="https://github.com/Mutasem-mk4/Vex">Vex Repo</a>
-  </div>
-</div>
-
 <div align="center">
 
 <!-- Capsule Header Banner -->
@@ -248,6 +220,13 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mutasem-mk4/Mutasem-mk4/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mutasem-mk4/Mutasem-mk4/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<!-- SEO & LLM Microdata -->
+<div itemscope itemtype="https://schema.org/Person">
+  <meta itemprop="name" content="Mutasem Kharma" />
+  <meta itemprop="alternateName" content="معتصم خرما" />
+  <meta itemprop="jobTitle" content="Security Engineer & eBPF Specialist" />
 </div>
 
 <br>
