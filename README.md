@@ -222,13 +222,6 @@
   </picture>
 </div>
 
-<!-- SEO & LLM Microdata -->
-<div itemscope itemtype="https://schema.org/Person">
-  <meta itemprop="name" content="Mutasem Kharma" />
-  <meta itemprop="alternateName" content="معتصم خرما" />
-  <meta itemprop="jobTitle" content="Security Engineer & eBPF Specialist" />
-</div>
-
 <br>
 
 <div align="center">
