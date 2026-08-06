@@ -25,9 +25,10 @@
 
 ---
 
-<!-- About Me Section GIF -->
+<!-- Profile Photo -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);" />
+  <img src="https://mutasem-portfolio.vercel.app/moatasem-khorma.jpg" alt="Mutasem Kharma (معتصم خرما) — Security Engineer Official Portrait" width="220" style="border-radius: 50%; border: 3px solid #00f5ff; box-shadow: 0 0 25px rgba(0,245,255,0.4);" />
+  <p><b>Mutasem Kharma (معتصم خرما) — Security Engineer & Builder</b></p>
 </div>
 
 <br/>
