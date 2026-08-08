@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=1000&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=+Hi%2C+I+am+Mutasem+Kharma+(%D9%85%D8%B9%D8%AA%D8%B5%D9%85+%D8%AE%D8%B1%D9%85%D8%A7);+Security+Engineer+%7C+eBPF+Specialist;+Author+of+procscope+%7C+gspy+%7C+Vex;+Linux+Internals+%7C+C+%7C+Go+%7C+Rust+%7C+AI" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=1000&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=+Hi%2C+I+am+Mutasem+Kharma;+Security+Engineer+%7C+eBPF+Specialist;+Author+of+procscope+%7C+gspy+%7C+Vex;+Linux+Internals+%7C+C+%7C+Go+%7C+Rust+%7C+AI" alt="Typing animation" />
 
 <br/>
 
@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      I'm <b>Mutasem Kharma (معتصم خرما)</b>, a <b>Security Engineer & eBPF Specialist</b> based in Amman, Jordan 🇯🇴.<br><br>
+      I'm <b>Mutasem Kharma</b>, a <b>Security Engineer & eBPF Specialist</b> based in Amman, Jordan 🇯🇴.<br><br>
       I specialize in <b>Linux Kernel Internals, eBPF-driven Digital Forensics & Incident Response (DFIR)</b>, and low-overhead malware triage tools.
       <br><br>
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=2000&color=36BCF7&center=false&vCenter=true&width=450&lines=%3E_Motto:~%20%22Automate%20Security.%20Zero%20Overhead.%22;%3E_Status:~%20Tracing_Syscalls...%E2%96%88" alt="Motto"/>
