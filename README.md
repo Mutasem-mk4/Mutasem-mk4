@@ -25,14 +25,6 @@
 
 ---
 
-<!-- Profile Photo -->
-<div align="center">
-  <img src="https://mutasem-portfolio.vercel.app/moatasem-khorma.jpg" alt="Mutasem Kharma (معتصم خرما) — Security Engineer Official Portrait" width="220" style="border-radius: 50%; border: 3px solid #00f5ff; box-shadow: 0 0 25px rgba(0,245,255,0.4);" />
-  <p><b>Mutasem Kharma (معتصم خرما) — Security Engineer & Builder</b></p>
-</div>
-
-<br/>
-
 ## 🧑‍💻 Who am I?
 
 <table>
